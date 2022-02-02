@@ -1,0 +1,12 @@
+
+# Ask for a one time selection of all articles for the supplied source
+GET http://localhost:8000/live/articles/for
+Content-Type: application/json
+
+{
+    "source": "https://www.jendrikillner.com/post/graphics-programming-weekly-issue-220/",
+    "selectors": {
+        "title": "div[class_name='post_header'].h2.a",
+        "full_text_link": "div[class_name='post_header'].h2.a"
+    }
+}
