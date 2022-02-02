@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "bungcip.better-toml",
+        "serayuzgur.crates",
+        "usernamehw.errorlens",
+        "shd101wyy.markdown-preview-enhanced",
+        "pkief.material-icon-theme",
+        "humao.rest-client",
+        "matklad.rust-analyzer",
+        "swyphcosmo.spellchecker",
+        "wayou.vscode-todo-highlight",
+        "quentinguidee.gitignore-ultimate",
+        "seatonjiang.gitmoji-vscode"
+    ]
+}

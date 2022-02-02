@@ -1,0 +1,22 @@
+{
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Visual Studio Light",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "spellchecker.emitErrors": false,
+    "editor.formatOnSave": true,
+    "spellchecker.ignoreWordsList": [
+        "flyg",
+        "Flyg",
+        "xplane",
+        "X-Plane"
+    ],
+    "[rust]": {
+        "editor.defaultFormatter": "matklad.rust-analyzer"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "bungcip.better-toml"
+    }
+}
